@@ -1,4 +1,4 @@
-#
+#dragAndDrop.py
 The provided code is a PyQt5 application for measuring and comparing volumes of STL files representing 3D models of teeth. The application allows users to drag and drop either a single STL file or a folder containing multiple STL files. It calculates and displays the volumes of the dropped STL files and enables the comparison of pre-treatment and post-treatment volumes for different teeth.
 
 Here's a breakdown of the key components and functionality of the code:
